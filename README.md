@@ -19,6 +19,8 @@ As everything is digitizing in todays world medicines are most important to deli
 
 ## Technical Specification :
 
+  Model    :  MVC
+
   Languages : Java Servlets , JSP , Html , CSS.
   
   DataBase : Mysql Server
